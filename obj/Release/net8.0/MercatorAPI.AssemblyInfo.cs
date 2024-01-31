@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MercatorAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f4fc30b3130a32dd24df2c6a9a9606131eae0f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("MercatorAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MercatorAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
